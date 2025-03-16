@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_bcrypt
+flask_cors
+flask_login
+flask_wtf
+flask_jwt_extended
+numpy
+pandas
+scikit-learn
